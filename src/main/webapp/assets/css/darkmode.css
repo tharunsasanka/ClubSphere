@@ -1,0 +1,39 @@
+
+body.dark {
+    background: #1d1325;
+    color: #f5eaff;
+}
+
+
+body.dark .navbar {
+    background: rgba(46, 22, 70, 0.6);
+}
+
+body.dark .nav-link {
+    color: #d9b3ff !important;
+}
+
+
+body.dark .card {
+    background: #2a1a3d;
+    color: #fff;
+    box-shadow: 0 2px 15px rgba(162, 89, 255, 0.15);
+}
+
+body.dark .card:hover {
+    box-shadow: 0 4px 18px rgba(162, 89, 255, 0.25);
+}
+
+
+body.dark .btn-primary {
+    background: #a663ff;
+}
+
+body.dark footer {
+    background: #2a1a3d;
+}
+
+body.dark .hero::after {
+    background: rgba(20, 10, 32, 0.65);
+}
+
